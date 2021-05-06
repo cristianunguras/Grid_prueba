@@ -1,0 +1,42 @@
+.peqe1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.peqe2 {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+.peqe3 {
+    grid-column: 1/2;
+    grid-row: 3/4;
+}
+
+.peqe4 {
+    grid-column: 3/4;
+    grid-row: 1/2;
+}
+
+.peqe5 {
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+
+.peqe6 {
+    grid-column: 3/4;
+    grid-row: 3/4;
+}
+
+.grande {
+    grid-column: 2/3;
+    grid-row: 1/4;
+}
+
+.izq {
+    grid-column: 1/2;
+}
+
+.dcha {
+    grid-column: 2/3;
+}

@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 220px 1fr 95px;
+    grid-row-gap: 20px;
+}
+
+#fotos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+#texto {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+}

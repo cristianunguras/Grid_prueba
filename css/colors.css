@@ -1,0 +1,38 @@
+header {
+    background-color: #40753B;
+    border: 1px solid;
+}
+
+main {
+    background-color: #9C1111;
+    border: 1px solid;
+}
+
+.peqe1,
+.peqe2,
+.peqe3,
+.peqe4,
+.peqe5,
+.peqe6 {
+    background-color: #C4C4C4;
+    border: 1px solid;
+}
+
+.grande {
+    height: 580px;
+    width: 454px;
+    background-color: #C4C4C4;
+    border: 1px solid;
+}
+
+.izq,
+.dcha {
+    height: 580px;
+    background-color: #C4C4C4;
+    border: 1px solid;
+}
+
+footer {
+    background-color: #1C44D1;
+    border: 1px solid;
+}
